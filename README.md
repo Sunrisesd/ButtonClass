@@ -24,7 +24,7 @@ end
 ## 用法
 
 ```swift
-import ButtonClass
+import ButtonEnLargeClass
 
 class MyViewController: UIViewController {
 
